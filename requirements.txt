@@ -1,0 +1,11 @@
+# Vision / pose pipeline
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Voice interface (optional -- only needed for `python main.py --voice`)
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0
+playsound==1.2.2
+gpt4all>=2.5.0
+PyAudio>=0.2.13
